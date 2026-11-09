@@ -215,8 +215,14 @@
         {
             "show": "High Voltage Radio",
             "description": "Get your requests in with Lady Lila - from classic rock to hardcore!",
-            "time": "1:00 PM",
+            "time": "9:00 PM",
             "imgUrl": "assets/HighVoltageRadio copy.png"
+        },
+        {
+            "show": "The Mad Wanderer",
+            "description": "Obscure, off-beat, and unusual!",
+            "time": "10:00 PM",
+            "imgUrl": "assets/MadWandererTVslide.png"
         },
         {
             "show": "Throwback Thursdays",
