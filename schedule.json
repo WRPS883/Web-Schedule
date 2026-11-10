@@ -56,17 +56,17 @@
             "time": "12:00 PM",
             "imgUrl": "assets/Lunch (1920 × 1080 px).jpeg"
         },
+          {
+            "show": "Guest DJs, Speciality Shows",
+            "description": "",
+            "time": "1:00 PM",
+            "imgUrl": "assets/Guest DJs, Speciality Programs and more!.png"
+        },
         {
             "show": "The Time Machine - Live!",
             "description": "DJ Gabby welcomes you aboard! A Throwback to the past featuring music from all eras!",
-            "time": "1:00 PM",
-            "imgUrl": "assets/Time Machine - for tv  copy.png"
-        },
-        {
-            "show": "Guest DJs, Speciality Shows",
-            "description": "",
             "time": "3:00 PM",
-            "imgUrl": "assets/Guest DJs, Speciality Programs and more!.png"
+            "imgUrl": "assets/Time Machine - for tv  copy.png"
         },
         {
             "show": "Metal Mondays: Distorted Frenzy",
@@ -252,7 +252,7 @@
         },
         {
             "show": "High Voltage Full Feature Fridays",
-            "description": "Get your requests in with Lady Lila - from classic rock to hardcore!",
+            "description": "Lady Lila brings you a full hour featuring one artist or topic!",
             "time": "1:00 PM",
             "imgUrl": "assets/HighVoltageRadio copy.png"
         },
